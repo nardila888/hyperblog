@@ -32,6 +32,7 @@ body
     text-align: left;
     border:1px solid #DDD;
     margin: auto;     
+    "css/estilos.css" 52L, 625C
 }
 
 #container h1
@@ -41,4 +42,12 @@ body
 #post
 {
     padding: 1em;
+}
+
+#footer
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
